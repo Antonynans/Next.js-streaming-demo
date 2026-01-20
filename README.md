@@ -392,20 +392,6 @@ Contributions are welcome! Please:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
-
-**Original Course**: [Next.js Streaming Masterclass 2025](https://youtube.com/@LearnwithSumit)  
-**Created by**: Sumit Saha - [Learn with Sumit](https://learnwithsumit.com)
-
-**Enhancements & Optimizations**: Performance improvements, error handling, accessibility enhancements, and persistence features.
-
-## 🙏 Acknowledgments
-
-- [Next.js Team](https://vercel.com/nextjs) for the amazing framework
-- [shadcn/ui](https://ui.shadcn.com/) for component library
-- [Tailwind CSS](https://tailwindcss.com/) for styling
-- [Lucide Icons](https://lucide.dev/) for the icon set
-
 ## 📞 Support
 
 For issues, questions, or suggestions:
@@ -427,4 +413,4 @@ For issues, questions, or suggestions:
 
 ---
 
-**Made with ❤️ using Next.js 15 and React 19**
+**Made with ❤️ using Next.js 15**
